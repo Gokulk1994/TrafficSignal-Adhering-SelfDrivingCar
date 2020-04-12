@@ -20,14 +20,15 @@
 
 ### 1. Sensors:
 
-#### Gets input from Camera images to detect and classify signals.
-
+```
+Gets input from Camera images to detect and classify signals.
+```
 ### 2. Perception
 
-#### Detects signals using Single Shot Detector (SSD) pretrained model and classifies
-
-#### between various types of signals.
-
+```
+Detects signals using Single Shot Detector (SSD) pretrained model and classifies between
+various types of signals.
+```
 ### 3. Planning
 
 ```
